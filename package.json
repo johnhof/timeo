@@ -1,0 +1,31 @@
+{
+  "name": "timeo",
+  "version": "0.0.9",
+  "description": "A cron like service with co flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptariche/timeo"
+  },
+  "keywords": [
+    "cron",
+    "node",
+    "co",
+    "service"
+  ],
+  "author": "Peter A. Tariche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptariche/timeo/issues"
+  },
+  "homepage": "https://github.com/ptariche/timeo",
+  "dependencies": {
+    "co": "^4.5.4",
+    "cron": "^1.0.9",
+    "debug": "^2.2.0",
+    "koa-compose": "^2.3.0"
+  }
+}
