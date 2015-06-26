@@ -1,6 +1,6 @@
 {
   "name": "timeo",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "A cron like service with co flow",
   "main": "index.js",
   "scripts": {
